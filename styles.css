@@ -1,3 +1,19 @@
 body{
-  background-color: red;
+  margin:0;
+  padding: 0;
+}
+#title{
+  background-color: #ff4c68
+}
+.container-fluid{
+  padding: 3% 15%;
+
+}
+.navbar-brand{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 5%;
+}
+.text{
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 3rem;
 }
